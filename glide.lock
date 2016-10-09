@@ -1,0 +1,6 @@
+hash: 5594218dd9ed54d01ddaf78f265a677e5a20a90611acb15da9f0028901440b17
+updated: 2016-10-09T11:08:06.122383502+08:00
+imports:
+- name: github.com/vuleetu/levelog
+  version: fd50ba790542ee4a7c7b2c77d65da4307c3d00a2
+testImports: []

@@ -1,0 +1,4 @@
+package: github.com/vuleetu/cgt
+import:
+- package: github.com/vuleetu/levelog
+  version: fd50ba790542ee4a7c7b2c77d65da4307c3d00a2
